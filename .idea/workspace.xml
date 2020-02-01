@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="611ee63f-81dc-4130-8324-fb26374b59bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/jazz/hw1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/jazz/hw2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.me.jazz.Hw2Kt">
     <configuration name="me.jazz.Hw1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KT-hw1.main" />
       <option name="VM_PARAMETERS" />
@@ -67,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="me.jazz.Hw2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KT-hw1.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="me.jazz.Hw2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.me.jazz.Hw2Kt" />
         <item itemvalue="Kotlin.me.jazz.Hw1Kt" />
       </list>
     </recent_temporary>
@@ -103,34 +116,42 @@
       <option name="project" value="LOCAL" />
       <updated>1580550201922</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task1">
+      <created>1580551549417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580551549417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="empty" />
-    <option name="LAST_COMMIT_MESSAGE" value="empty" />
+    <MESSAGE value="task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="601" y="150" width="777" height="814" key="CommitChangelistDialog2" timestamp="1580551359844">
+    <state x="601" y="150" width="777" height="814" key="CommitChangelistDialog2" timestamp="1580551549349">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="601" y="150" width="777" height="814" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1580551359844" />
-    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1580551523186">
+    <state x="601" y="150" width="777" height="814" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1580551549349" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1580553417833">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1580551523186" />
-    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1580551523185">
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1580553417833" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1580553417832">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1580551523185" />
-    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1580551523185">
+    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1580553417832" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1580553417832">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1580551523185" />
-    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1580551523186">
+    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1580553417832" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1580553417833">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1580551523186" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1580553417833" />
     <state x="658" y="259" key="search.everywhere.popup" timestamp="1580550238391">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
